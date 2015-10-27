@@ -2,5 +2,5 @@
 
 for i in {0..10}
   do
-  screen -dm bash /root/ddos.sh
+  screen -dm bash ddos.sh
 done
